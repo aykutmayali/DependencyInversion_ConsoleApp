@@ -1,0 +1,2 @@
+# DependencyInversion_ConsoleApp
+Dependency Inversion Principle
